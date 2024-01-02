@@ -39,7 +39,7 @@ export const Modal = ({
       style={customStyles}
       contentLabel={contentLabel}
     >
-      <img src={largeImageURL} alt={tags} width="550" />
+      <img src={largeImageURL} alt={tags} width="650" />
     </ModalComponent>
   );
 };
